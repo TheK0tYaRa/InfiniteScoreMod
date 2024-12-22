@@ -1,6 +1,6 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Infinite Score Utils
---- MOD_ID: ScoreUtils
+--- MOD_ID: 00_ScoreUtils
 --- MOD_AUTHOR: [JamesTheJellyfish]
 --- MOD_DESCRIPTION: Helper functions to facilitate the use of the Infinite Score mod.
 ----------------------------------------------
